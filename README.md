@@ -1,1 +1,5 @@
-# TodoApp Typescript React
+# TodoApp 
+
+Typescript 
+React 
+Firebase
